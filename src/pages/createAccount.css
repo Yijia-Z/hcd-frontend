@@ -1,0 +1,10 @@
+@import url(./common.css);
+
+h3{
+  justify-content: center;
+  display: grid;
+  font-size: xx-large;
+  font-weight: bolder;
+}
+
+
